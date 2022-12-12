@@ -5,7 +5,14 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Nojiri
+  - Nojiri T
+  - Werneburg I
+  - Tu VT
+  - Fukui D
+  - Takechi M
+  - Iseki S
+  - Furutera T
+  - Koyabu D
 author_notes: []
 publication: "Proceedings of the Royal Society B: Biological Sciences."
 summary: ""
