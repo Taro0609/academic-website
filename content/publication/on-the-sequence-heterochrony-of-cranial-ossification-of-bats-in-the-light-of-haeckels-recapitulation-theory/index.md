@@ -7,7 +7,7 @@ authors:
   - Nojiri T
   - Tu VT
   - Sohn JH
-  - Koyabu D.
+  - and Koyabu D.
 doi: doi:10.1002/jez.b.23042
 draft: false
 featured: false
