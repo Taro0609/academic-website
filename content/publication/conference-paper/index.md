@@ -1,52 +1,47 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
-authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
-featured: true
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
-projects:
-- example
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-publication_types:
-- "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags: []
-title: An example conference paper
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+abstract: in press
+slides: ""
 url_pdf: ""
-url_poster: ""
+publication_types:
+  - "2"
+authors:
+  - Nojiri
+  - T.
+  - Werneburg
+  - I. Tu
+  - V.T.
+  - Fukui
+  - D.
+  - Takechi
+  - M.
+  - Iseki
+  - S.
+  - Furutera
+  - T.
+  - and Koyabu
+  - D.
+author_notes: []
+publication: "Proceedings of the Royal Society B: Biological Sciences."
+summary: ""
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
-url_slides: ""
+publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
+title: Timing of organogenesis underscores evolution of neonatal life histories
+  and powered flight in bats.
+subtitle: ""
+doi: ""
+featured: false
+tags: []
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+date: 2022-12-12T03:05:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
