@@ -5,7 +5,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Nojiri T
+  - <B>Nojiri T</B>
   - Werneburg I
   - Tu VT
   - Fukui D
