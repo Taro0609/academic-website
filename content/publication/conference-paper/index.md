@@ -14,7 +14,7 @@ authors:
   - Furutera T
   - Koyabu D
 author_notes: []
-publication: "Proceedings of the Royal Society B: Biological Sciences."
+publication: "<i> Proceedings of the Royal Society B: Biological Sciences. </i>"
 summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
